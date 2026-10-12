@@ -1,3 +1,5 @@
+This is a crypto visual fusion engine for LOCK33 Development Organization.
+
 platform-samples
 ================
 
